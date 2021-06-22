@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-weight: 400;
+  font-family: "Poppins","Lucida Console", Courier, monospace;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
